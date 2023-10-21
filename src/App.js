@@ -1,11 +1,13 @@
 import React from "react";
 import Header from '../src/components/Header'
-// import style from './src/style'
+import Main from '../src/components/Main'
+import style from '../src/style.css'
 
 const App = () =>{
     return (
-        <div>
+        <div className="appDiv">
             <Header/>
+            <Main />
 
         </div>
     )
