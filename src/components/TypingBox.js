@@ -27,7 +27,6 @@ const TypingBox = () =>{
         
         startTimer(t)
      }
-9
     return (
         <div className="main">
             <div className="main-one">
